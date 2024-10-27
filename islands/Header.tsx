@@ -9,6 +9,7 @@ export default function Header() {
             <nav className="flex gap-4 absolute left-1/2 transform -translate-x-1/2">
                 <a href="/" className="hover:underline">Home</a>
                 <a href="/portfolio" className="hover:underline">Portfolio</a>
+                <a href="/cases" className="hover:underline">Cases</a>
                 <a href="/about" className="hover:underline">About</a>
                 <a href="/contact" className="hover:underline">Contact</a>
             </nav>
